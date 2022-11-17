@@ -9,7 +9,7 @@
 </p>
 
 <details> 
-  <summary><h2>📊 My Github Stats</h2></summary>
+  <summary><h2>📊 My GitHub Stats</h2></summary>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=freiqq" height="150"  alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=310&langs_count=6&theme=github_dark&hide_border=true&username=freiqq" height="150" alt="languages graph"  />
@@ -23,9 +23,9 @@
 <details> 
   <summary><h2>💡 My Projects </h2></summary>
 
-| Project name <img width=650/>                                                                                                                                                              | Description                                                                                                                                                                                                                                                                                          |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freiqq&repo=containers&show_owner=true&theme=github_dark&hide_border=true)](https://github.com/freiqq/containers) | As part of this project, I wrote my own library that implements the main standard C++ container classes: list, map, queue, set, stack, and vector. The implementation provides a full set of standard methods and attributes for working with elements, container occupancy checking, and iteration. |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freiqq&repo=matrix&show_owner=true&theme=github_dark&hide_border=true)](https://github.com/freiqq/matrix)         |
+| Project name                                                                                                                                                                               | Description                                                                                                                                                                                                                                                                                                          |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freiqq&repo=containers&show_owner=true&theme=github_dark&hide_border=true)](https://github.com/freiqq/containers) | As part of this project, I wrote my own library that implements<br/>the main standard C++ container classes: list, map, queue, set,<br/>stack, and vector. The implementation provides a full set of<br/>standard methods and attributes for working with elements,<br/>container occupancy checking, and iteration. |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freiqq&repo=matrix&show_owner=true&theme=github_dark&hide_border=true)](https://github.com/freiqq/matrix)         | In this project, I implemented my library for processing numerical<br/>matrices in the C++ programming language. The implementation<br/>provides a set of methods that perform basic operations<br/>with matrices.                                                                                                   |
 
 </details>
