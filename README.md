@@ -7,8 +7,8 @@
 <details> 
   <summary><h2>📊 My Github Stats</h2></summary>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=freiqq" height="160"  alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=270&langs_count=6&theme=github_dark&hide_border=true&username=freiqq" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=freiqq" height="150"  alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=270&langs_count=6&theme=github_dark&hide_border=true&username=freiqq" height="150" alt="languages graph"  />
 </div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=freiqq&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
