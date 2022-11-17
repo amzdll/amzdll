@@ -16,6 +16,13 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=freiqq&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
 
+<details> 
+  <summary><h2>📊 My Projects Stats</h2></summary>
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]
+</details> -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tnu-suite&repo=tinux-riscv&show_owner=true)](https://github.com/freiqq/containers)
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href=" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
