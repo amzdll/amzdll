@@ -4,6 +4,10 @@
 <!-- <h3 align="left">Connect with me:</h3> -->
 <!-- <p align="left"> -->
 <!-- </p> -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href=" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+</p>
+  
 <details> 
   <summary><h2>📊 My Github Stats</h2></summary>
 <div align="center">
@@ -13,20 +17,15 @@
   
 <br />
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=freiqq&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=freiqq&theme=github-dark&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
 
 <details> 
-  <summary><h2>📊 My Projects </h2></summary>
+  <summary><h2>💡 My Projects </h2></summary>
   
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freiqq&repo=containers&show_owner=true&theme=github_dark&hide_border=true)](https://github.com/freiqq/containers) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freiqq&repo=matrix&show_owner=true&theme=github_dark&hide_border=true)](https://github.com/freiqq/matrix) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 </details>
 
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href=" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-</p>
 
