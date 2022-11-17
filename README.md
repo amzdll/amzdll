@@ -17,10 +17,13 @@
 </details>
 
 <details> 
-  <summary><h2>📊 My Projects Stats</h2></summary>
+  <summary><h2>📊 My Projects </h2></summary>
+  
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freiqq&repo=containers&show_owner=true&theme=github_dark&hide_border=true)](https://github.com/freiqq/containers) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freiqq&repo=matrix&show_owner=true&theme=github_dark&hide_border=true)](https://github.com/freiqq/matrix) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freiqq&repo=containers&show_owner=true&theme=github_dark&hide_border=true)](https://github.com/freiqq/containers)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=freiqq&repo=matrix&show_owner=true&theme=github_dark&hide_border=true)](https://github.com/freiqq/matrix) 
 </details>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
