@@ -13,8 +13,6 @@
 
 <br />
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=freiqq&theme=github-dark&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</details>
 
 <details> 
   <summary><h2>💡 My Projects </h2></summary>
