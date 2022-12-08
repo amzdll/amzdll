@@ -12,8 +12,8 @@
 </div>
 
 <br />
-
-
+</details> 
+  
 <details> 
   <summary><h2>💡 My Projects </h2></summary>
 
