@@ -1,4 +1,4 @@
-<img src = "image/freiqq.jpeg"/>
+<img src = "image/freiqq.png"/>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
