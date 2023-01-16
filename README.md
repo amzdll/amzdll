@@ -9,16 +9,16 @@
 
 <br />
 
-  
+
 <details> 
   <summary><h2>🧑‍💻 My Projects </h2></summary>
 <details> 
   <summary><h3>C++</h3></summary>
 
 
-| Project name                                                                                                                                                                               | Description                                                                                                                                                                                                                                                                                                          |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Contrainers](https://github.com/freiqq/containers) | As part of this project, I wrote my own library that implements<br/>the main standard C++ container classes: list, map, queue, set,<br/>stack, and vector. The implementation provides a full set of<br/>standard methods and attributes for working with elements,<br/>container occupancy checking, and iteration. |
-| [Matrix](https://github.com/freiqq/matrix)         | In this project, I implemented my library for processing<br/>numerical matrices in the C++ programming language.<br/>The implementation provides a set of methods that perform<br/>basic operations with matrices.                                                                                                   |
+| Project name                                                 | Description                                                                                                                                                                                                                                                                                          |
+|--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <h4>  [Contrainers](https://github.com/freiqq/containers)</h4> | As part of this project, I wrote my own library that implements the main standard C++ container classes: list, map, queue, set, stack, and vector. The implementation provides a full set of standard methods and attributes for working with elements, container occupancy checking, and iteration. |
+| <h4>  [Matrix](https://github.com/freiqq/matrix)</h4>          | In this project, I implemented my library for processing numerical matrices in the C++ programming language. The implementation provides a set of methods that perform basic operations with matrices.                                                                                               |
 </details>
 </details>
