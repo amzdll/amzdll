@@ -19,3 +19,12 @@
 | <h4>  [Matrix](https://github.com/freiqq/matrix)</h4>          | In this project, I implemented my library for processing numerical matrices in the C++ programming language. The implementation provides a set of methods that perform basic operations with matrices.                                                                                               |
 
 </details>
+<details>
+  <summary><h3>PostgreSQL</h3></summary>
+  
+| Project name                                                 | Description                                                                                                                                                                                                                                                                                          |
+|--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <h4>  [Introduction_to_SQL](https://github.com/freiqq/Introduction_to_SQL)</h4> | A 10-day intensive, aimed at gaining basic skills of working with postgreSQL. |
+| <h4>  [Retail_Analytics](https://github.com/freiqq/Retail_Analytics)</h4>          | This project created a database with retail customer information and created the views and procedures needed to create personalized offers.                                                                                              |
+
+</details>
