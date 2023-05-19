@@ -8,7 +8,7 @@
     <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="pyt" width="40" height="40"/> </a> 
     <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
-
+<br />
 <h2>🧑‍💻 My Projects </h2>
 
 <details>
