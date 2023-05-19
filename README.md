@@ -1,4 +1,4 @@
-<img src = "image/freiqq.png"/>
+<img src = "image/header.png"/>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
@@ -43,5 +43,4 @@
 
 </details>
 
-
-
+<img src = "image/footer.png"/>
