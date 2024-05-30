@@ -1,5 +1,3 @@
-# IN PROGRESS 
-
 <img src = "image/header.png"/>
 
 <h2 align="left">Languages and Tools:</h2>
